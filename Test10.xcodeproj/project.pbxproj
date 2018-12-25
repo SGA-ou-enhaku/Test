@@ -15,6 +15,7 @@
 		4897351F2182F782000F9441 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4897351E2182F782000F9441 /* main.m */; };
 		489735292182F782000F9441 /* Test10Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 489735282182F782000F9441 /* Test10Tests.m */; };
 		489735342182F782000F9441 /* Test10UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 489735332182F782000F9441 /* Test10UITests.m */; };
+		4897E54D21D1C45F00715F80 /* wyb.m in Sources */ = {isa = PBXBuildFile; fileRef = 4897E54C21D1C45F00715F80 /* wyb.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		4897352F2182F782000F9441 /* Test10UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test10UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		489735332182F782000F9441 /* Test10UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test10UITests.m; sourceTree = "<group>"; };
 		489735352182F782000F9441 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4897E54B21D1C45F00715F80 /* wyb.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wyb.h; sourceTree = "<group>"; };
+		4897E54C21D1C45F00715F80 /* wyb.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wyb.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				489735102182F780000F9441 /* AppDelegate.m */,
 				489735122182F780000F9441 /* ViewController.h */,
 				489735132182F780000F9441 /* ViewController.m */,
+				4897E54B21D1C45F00715F80 /* wyb.h */,
+				4897E54C21D1C45F00715F80 /* wyb.m */,
 				489735152182F780000F9441 /* Main.storyboard */,
 				489735182182F782000F9441 /* Assets.xcassets */,
 				4897351A2182F782000F9441 /* LaunchScreen.storyboard */,
@@ -264,6 +269,7 @@
 			files = (
 				489735142182F780000F9441 /* ViewController.m in Sources */,
 				4897351F2182F782000F9441 /* main.m in Sources */,
+				4897E54D21D1C45F00715F80 /* wyb.m in Sources */,
 				489735112182F780000F9441 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
